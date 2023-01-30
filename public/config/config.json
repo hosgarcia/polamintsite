@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9a3EF81b1E8a0a2E732A571EbdD8C4afDaB3517a",
+  "SCAN_LINK": "https://etherscan.io/address/0x9a3EF81b1E8a0a2E732A571EbdD8C4afDaB3517a",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Pola",
+  "SYMBOL": "Pola",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 15000000000000000,
+  "DISPLAY_COST": 0.015,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Rarible",
+  "MARKETPLACE_LINK": "https://rarible.com/PolaPuppyWorld",
+  "SHOW_BACKGROUND": true
+}
