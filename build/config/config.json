@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa003C234fCc87b048676cB91Df2967c02Be00c81",
+  "SCAN_LINK": "https://polygonscan.com/address/0xa003C234fCc87b048676cB91Df2967c02Be00c81",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Pola",
+  "SYMBOL": "PPW",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 13000000000000000000,
+  "DISPLAY_COST": 13,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Rarible",
+  "MARKETPLACE_LINK": "https://rarible.com/PolaPuppyWorld",
+  "SHOW_BACKGROUND": true
+}
