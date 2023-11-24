@@ -272,7 +272,7 @@ function App() {
                 >
                   Excluding gas fees. <br>
                   </br>
-                  Mint starts 30 january 2023.
+                  Mint your own Pola and you'll be helping a good cause.
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
